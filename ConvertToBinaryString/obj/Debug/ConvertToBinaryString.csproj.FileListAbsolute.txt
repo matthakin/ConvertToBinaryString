@@ -1,0 +1,5 @@
+c:\users\mhakin\documents\visual studio 2015\Projects\ConvertToBinaryString\ConvertToBinaryString\bin\Debug\ConvertToBinaryString.dll
+c:\users\mhakin\documents\visual studio 2015\Projects\ConvertToBinaryString\ConvertToBinaryString\bin\Debug\ConvertToBinaryString.pdb
+c:\users\mhakin\documents\visual studio 2015\Projects\ConvertToBinaryString\ConvertToBinaryString\obj\Debug\ConvertToBinaryString.dll
+c:\users\mhakin\documents\visual studio 2015\Projects\ConvertToBinaryString\ConvertToBinaryString\obj\Debug\ConvertToBinaryString.pdb
+C:\Users\mhakin\documents\visual studio 2015\Projects\ConvertToBinaryString\ConvertToBinaryString\obj\Debug\ConvertToBinaryString.csprojResolveAssemblyReference.cache

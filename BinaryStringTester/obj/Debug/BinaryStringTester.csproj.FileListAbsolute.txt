@@ -1,0 +1,11 @@
+C:\Users\mhakin\Documents\Visual Studio 2015\Projects\ConvertToBinaryString\BinaryStringTester\bin\Debug\BinaryStringTester.exe.config
+C:\Users\mhakin\Documents\Visual Studio 2015\Projects\ConvertToBinaryString\BinaryStringTester\bin\Debug\BinaryStringTester.exe
+C:\Users\mhakin\Documents\Visual Studio 2015\Projects\ConvertToBinaryString\BinaryStringTester\bin\Debug\BinaryStringTester.pdb
+C:\Users\mhakin\Documents\Visual Studio 2015\Projects\ConvertToBinaryString\BinaryStringTester\bin\Debug\ConvertToBinaryString.dll
+C:\Users\mhakin\Documents\Visual Studio 2015\Projects\ConvertToBinaryString\BinaryStringTester\bin\Debug\ConvertToBinaryString.pdb
+C:\Users\mhakin\Documents\Visual Studio 2015\Projects\ConvertToBinaryString\BinaryStringTester\obj\Debug\BinaryStringTester.csprojResolveAssemblyReference.cache
+C:\Users\mhakin\Documents\Visual Studio 2015\Projects\ConvertToBinaryString\BinaryStringTester\obj\Debug\BinaryStringTester.Form1.resources
+C:\Users\mhakin\Documents\Visual Studio 2015\Projects\ConvertToBinaryString\BinaryStringTester\obj\Debug\BinaryStringTester.Properties.Resources.resources
+C:\Users\mhakin\Documents\Visual Studio 2015\Projects\ConvertToBinaryString\BinaryStringTester\obj\Debug\BinaryStringTester.csproj.GenerateResource.Cache
+C:\Users\mhakin\Documents\Visual Studio 2015\Projects\ConvertToBinaryString\BinaryStringTester\obj\Debug\BinaryStringTester.exe
+C:\Users\mhakin\Documents\Visual Studio 2015\Projects\ConvertToBinaryString\BinaryStringTester\obj\Debug\BinaryStringTester.pdb

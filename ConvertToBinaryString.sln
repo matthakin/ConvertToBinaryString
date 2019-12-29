@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertToBinaryString", "ConvertToBinaryString\ConvertToBinaryString.csproj", "{BBD52CF6-0073-4FC5-A242-7067BCEC60AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryStringTester", "BinaryStringTester\BinaryStringTester.csproj", "{C0E04288-69C0-48AD-B21E-590BB7CD1C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBD52CF6-0073-4FC5-A242-7067BCEC60AD}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD52CF6-0073-4FC5-A242-7067BCEC60AD}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{BBD52CF6-0073-4FC5-A242-7067BCEC60AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD52CF6-0073-4FC5-A242-7067BCEC60AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E04288-69C0-48AD-B21E-590BB7CD1C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E04288-69C0-48AD-B21E-590BB7CD1C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E04288-69C0-48AD-B21E-590BB7CD1C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E04288-69C0-48AD-B21E-590BB7CD1C40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
